@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v1.2.2-debian
+FROM fluent/fluentd:v1.2.5-debian
 
 LABEL maintainer="Mateusz Kyc"
 USER root
